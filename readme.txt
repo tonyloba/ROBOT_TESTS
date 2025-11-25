@@ -21,3 +21,6 @@ RobotProject/
 │
 └── libs/
       helper.py
+
+6) Add gitignore file witn .venv 
+7) commit and push to new Git Repo
