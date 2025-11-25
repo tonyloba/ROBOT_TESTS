@@ -2,7 +2,7 @@
 Library    SeleniumLibrary
 
 *** Variables ***
-${URL}    https://example.com/login
+${URL}    https://practicetestautomation.com/practice-test-login/
 
 *** Keywords ***
 Open Browser To Login Page

@@ -1,0 +1,4 @@
+*** Variables ***
+${username}      student
+${password}      Password123
+${login_url}     https://practicetestautomation.com/practice-test-login/
